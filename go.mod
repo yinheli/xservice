@@ -3,7 +3,7 @@ module github.com/xinpianchang/xservice
 go 1.16
 
 require (
-	github.com/Shopify/sarama v1.34.0
+	github.com/Shopify/sarama v1.36.0
 	github.com/bsm/redislock v0.7.2
 	github.com/cloudflare/tableflip v1.2.3
 	github.com/dave/jennifer v1.5.0
@@ -18,7 +18,6 @@ require (
 	github.com/jarcoal/httpmock v1.2.0
 	github.com/jinzhu/copier v0.3.5
 	github.com/jinzhu/now v1.1.5 // indirect
-	github.com/klauspost/compress v1.15.1 // indirect
 	github.com/labstack/echo-contrib v0.12.0
 	github.com/labstack/echo/v4 v4.7.2
 	github.com/labstack/gommon v0.3.1
@@ -31,7 +30,7 @@ require (
 	github.com/speps/go-hashids/v2 v2.0.1
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.8.0
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	go.etcd.io/etcd/api/v3 v3.5.4
